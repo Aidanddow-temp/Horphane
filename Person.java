@@ -45,8 +45,7 @@ public class Person {
 
         LocalDate today = LocalDate.now();
         Period timePassed = Period.between(this.DOB, today);
-        int age = timePassed.getYears();
-        return age;
+        return timePassed.getYears();
     }
 
     @Override
