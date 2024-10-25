@@ -1,3 +1,7 @@
+package sprint1;
+
+import sprint1.Taxes.TaxChallenge;
+
 import java.time.LocalDate;
 import java.util.Objects;
 
@@ -34,7 +38,7 @@ public class App {
         }
 
         if (Objects.equals(program, "tax")) {
-            Taxes.TaxChallenge.taxMain();
+            TaxChallenge.taxMain();
         }
 
         if (Objects.equals(program, "uniquesum")) {

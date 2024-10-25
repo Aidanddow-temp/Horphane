@@ -13,7 +13,11 @@ Effie, Izzy, Aidan, Mary, Iestyn
 Run the App class with an argument to run a specific challenge.
 - for FizzBuzz use argument "fizzbuzz n" where n is the number to use
 - for Blackjack use "blackjack num1 num2" where num1 and num2 are the two numbers
-- for Taxes use "tax"
+- for Taxes use "tax number" where is number is the number
 - for uniquesum use "uniquesum"
 - for Person use "person"
   
+### example:
+```agsl
+java App blackjack 18 21
+```

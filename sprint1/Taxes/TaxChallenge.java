@@ -1,4 +1,4 @@
-package Taxes;
+package sprint1.Taxes;
 
 /*
  * change amnount to call rate rather than cases

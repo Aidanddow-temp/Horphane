@@ -1,3 +1,5 @@
+package sprint1;
+
 public class UniqueSum {
 
     public static void uniqueMain () {
