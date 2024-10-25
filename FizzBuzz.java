@@ -1,7 +1,6 @@
 public class FizzBuzz {
 
 
-
     public static void FizzBuzzPrinter( int num){
         for (int i= 1; i<=num; i++) {
             if (i % 3 == 0 && i % 5 == 0) {

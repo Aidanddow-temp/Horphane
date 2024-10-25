@@ -1,6 +1,6 @@
 public class UniqueSum {
 
-    public static void main (String[] args) {
+    public static void uniqueMain () {
 
         /* first test case
         int a = 1;

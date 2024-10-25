@@ -9,7 +9,7 @@ package Taxes;
 
 public class TaxChallenge {
 
-    public static void main(String[] args) {
+    public static void taxMain() {
 
         int income = 37000;
 
