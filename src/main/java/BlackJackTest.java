@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import sprint1.Blackjack;
 
-// add comments
+// add more comments
 
 public class BlackJackTest {
 
